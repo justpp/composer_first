@@ -1,0 +1,19 @@
+{
+    "name": "vendor/anonymetheone",
+    "description": "justPP first composer_package",
+    "require": {
+        "php": ">=7.0"
+    },
+    "license": "justPP",
+    "authors": [
+        {
+            "name": "justpp",
+            "email": "1195455487@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "anonymetheone\\": "anonymetheone/"
+        }
+    }
+}
