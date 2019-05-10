@@ -1,5 +1,5 @@
 {
-    "name": "vendor/anonymetheone",
+    "name": "anonymetheone/justpp",
     "description": "justPP first composer_package",
     "require": {
         "php": ">=7.0"
