@@ -1,8 +1,7 @@
 <?php
 
 
-namespace Practice;
-
+namespace Practice ;
 
 class IteratorTest implements \Iterator
 {
@@ -52,3 +51,6 @@ class IteratorTest implements \Iterator
         $this->index = 0;
     }
 }
+
+
+
