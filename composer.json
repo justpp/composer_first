@@ -1,19 +1,14 @@
 {
     "name": "justpp/practice",
-    "description": "justPP first composer_package",
-    "require": {
-        "php": ">=7.0"
-    },
-    "license": "justPP",
+    "description": "justpp's practice",
+    "type": "library",
+    "license": "justpp",
     "authors": [
         {
             "name": "justpp",
-            "email": "1195455487@qq.com"
+            "email": "youyelan9527@gmail.com"
         }
     ],
-    "autoload": {
-        "psr-4": {
-            "Practice\\": "practice"
-        }
-    }
+    "minimum-stability": "dev",
+    "require": {}
 }
