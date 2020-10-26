@@ -2,7 +2,7 @@
     "name": "justpp/practice",
     "description": "justpp's practice",
     "type": "library",
-    "license": "JustPP",
+    "license": "MIT",
     "authors": [
         {
             "name": "justpp",
