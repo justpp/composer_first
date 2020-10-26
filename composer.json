@@ -1,5 +1,5 @@
 {
-    "name": "anonymetheone/justpp",
+    "name": "justpp/practice",
     "description": "justPP first composer_package",
     "require": {
         "php": ">=7.0"
@@ -13,7 +13,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "anonymetheone\\": "Anonymetheone"
+            "Practice\\": "practice"
         }
     }
 }

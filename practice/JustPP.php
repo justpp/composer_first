@@ -5,7 +5,7 @@
  * Date: 2019-05-10
  * Time: 16:24
  */
-namespace anonymetheone;
+namespace Practice;
 
 class JustPP
 {

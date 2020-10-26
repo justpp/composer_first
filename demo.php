@@ -7,7 +7,7 @@
  */
 require_once './vendor/autoload.php';
 
-use anonymetheone\JustPP;
+use Practice\JustPP;
 
 $JustPP = new JustPP();
 
