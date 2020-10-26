@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Practice ;
+namespace Practice;
 
 class IteratorTest implements \Iterator
 {
